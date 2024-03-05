@@ -89,8 +89,7 @@ and as you know , ___Apache Server___ and ___php my admin___ , in addition, ___H
 
 ## <h1 id="Preview">Preview</h1>
 
-- ![go ot my picture]()
-
+- [go ot my preview](https://news-websites-babak.netlify.app/)
 
 ---
 
